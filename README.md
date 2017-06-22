@@ -4,4 +4,4 @@
 
 下面欣赏一幅菊花：
 
-![juhua](https://lidayang1.github.io/Chrysanthemum.jpg)
+![juhua](https://lidayang1.github.io/xi/Chrysanthemum.jpg)
